@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCQAsov3XqUJpcLIlHHOTFnpAr137AkIvw",
-  authDomain: "voteelegantkids.firebaseapp.com",
-  databaseURL: "https://voteelegantkids-default-rtdb.firebaseio.com",
-  projectId: "voteelegantkids",
-  storageBucket: "voteelegantkids.appspot.com",
-  messagingSenderId: "509518530087",
-  appId: "1:509518530087:web:d96e46e9ee5e21bf88b002"
+  apiKey: "AIzaSyB5YEJgFrp4AAK2OIluGuR4hY25_jm1iqw",
+  authDomain: "beautyasiansdb.firebaseapp.com",
+  databaseURL: "https://beautyasiansdb-default-rtdb.firebaseio.com",
+  projectId: "beautyasiansdb",
+  storageBucket: "beautyasiansdb.appspot.com",
+  messagingSenderId: "30220937070",
+  appId: "1:30220937070:web:1992c2baf070c2fc76837f"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
